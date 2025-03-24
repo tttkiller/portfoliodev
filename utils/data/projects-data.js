@@ -3,7 +3,7 @@ export const projectsData = [
     id: 1,
     name: "AI Powered Financial App",
     description:
-      "I built a AI Finance App using Nextjs from Reactjs and used prisma for database connection tgrough supabase which uses postgresql. leveraged Tailwindcss to build interactive and responsive frontend. Integrated gemini API for handling advanced features such as AI reciept scanner and monthly budget insights",
+      "I built a AI Finance App using Nextjs from Reactjs and used prisma for database connection through supabase which uses postgresql. leveraged Tailwindcss to build interactive and responsive frontend. Integrated gemini API for handling advanced features such as AI reciept scanner and monthly budget insights",
     tools: [
       "Nextjs",
       "Reactjs",
@@ -19,7 +19,7 @@ export const projectsData = [
     id: 2,
     name: "Chat Application",
     description:
-      "I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.",
+      "I developed a chat application using MERN stack and integrated socket.io for real time communicatiom.Implemented features such as real time typing indicator,online presence and read receipts.Secured authentification through JWT based method.",
     tools: [
       "Reactsj",
       "Nodejs",
@@ -36,7 +36,7 @@ export const projectsData = [
     id: 3,
     name: "Sorting Visualizer",
     description:
-      "I build a Sorting Visualizer app in which users can visualize different sorting algorithms based on size ,speed and type of algorithm. It also shows best case time complexity ans worst case time complexity",
+      "I build a Sorting Visualizer app in which users can visualize different sorting algorithms based on size ,speed and type of algorithm. It also shows best case time complexity and worst case time complexity",
     tools: ["CSS", "React", "Html", "Javascript,"],
     role: "Frontend Developer",
   },
